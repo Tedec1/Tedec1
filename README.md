@@ -1,6 +1,8 @@
-<!--
-### Hi there 👋
 
+### Hi there 👋
+### Welcome to my profile page!
+- 📫 How to reach me: jaspermesenbrink@gmail.com
+<!--
 - My github CV can be found at Tedec1.github.io
 <!--
 **Tedec1/Tedec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
